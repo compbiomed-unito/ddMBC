@@ -1,0 +1,2 @@
+,plain_pearson,test_pearson,delta_pearson,plain_RMSE,test_RMSE,delta_RMSE,type,mass_balance
+pythia,0.42503083452306034,0.6169989223029954,0.19196808777993501,7.390213195496487,1.2168553584918722,-6.173357837004614,struct.PLM,n
